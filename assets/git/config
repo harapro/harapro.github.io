@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "new"]
+	url = www.github.com/delowar64
+	fetch = +refs/heads/-m:refs/remotes/new/-m
+[user]
+	name = delowar64
+	email = delowar6494@gmail.com
